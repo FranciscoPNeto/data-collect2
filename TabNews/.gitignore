@@ -1,0 +1,6 @@
+/data/contents/sqlite/*.db
+
+/data/contents/json/*.json
+
+__pycache__/
+*.pyc
