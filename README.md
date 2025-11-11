@@ -19,7 +19,7 @@ Copiar código
 ---
 
 ## Tecnologias Principais
-- **Python 3.10+**
+- **Python**
 - `requests` · `BeautifulSoup` · `pandas` · `sqlite3`
 - `tqdm` · `json` · `parquet`
 
