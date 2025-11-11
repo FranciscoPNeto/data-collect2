@@ -13,9 +13,6 @@ data-collect2/
 ├── ResidentEvil/ → Coleta personagens da Resident Evil Database
 └── TabNews/ → Coleta posts do TabNews
 
-yaml
-Copiar código
-
 ---
 
 ## Tecnologias Principais
@@ -25,7 +22,7 @@ Copiar código
 
 ---
 
-🧩 Projetos
+ Projetos
 Projeto	Fonte de Dados	Saída
 JovemNerd	Nerdcast Podcast	SQLite + JSON
 Pokémon	PokeAPI	JSON + SQLite
